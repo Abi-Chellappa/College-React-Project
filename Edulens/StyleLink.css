@@ -1,0 +1,79 @@
+.full
+{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+  
+.jamimg
+{
+    position: absolute;
+}
+
+.dis
+{
+    position: absolute;
+    top: 220px;
+    left: 830px;
+    width: 500px;
+    font-size: 22px;
+    font-style: oblique;
+}
+.co{
+    position: absolute;
+    top: 380px;
+    left: 945px;
+    width: 250px; 
+    height: 50px;
+    font-size: 30px; 
+    background-color: white; 
+}
+.ch{
+   position: absolute;
+   left: 945px;
+   top: 460px;
+   font-size: 30px;
+   width: 250px;
+   height: 50px;
+   background-color: white;
+   
+}
+
+.ve{
+    position: absolute;
+    left: 945px;
+    top: 540px;
+    font-size: 30px;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    
+}
+.tr{
+    
+    position: absolute;
+    left: 945px;
+    top: 620px;
+    font-size: 30px;
+    width: 250px;
+    height: 50px;
+    background-color: white;
+}
+.ma{
+    position: absolute;
+    left: 945px;
+    top: 700px;
+    font-size: 30px;
+    width: 250px;
+    background-color: white;
+    height: 50px;
+    
+
+}
+.exit
+{
+    position: absolute;
+    top: 750px;
+    left: 1399px;
+}

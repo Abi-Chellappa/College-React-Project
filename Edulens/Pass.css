@@ -1,0 +1,7 @@
+.rectangle{
+    Position : absolute;
+    width : 600px;
+    height : 600px;
+    top :30px;
+    background: hsla(0, 37%, 96%, 0.937);
+}

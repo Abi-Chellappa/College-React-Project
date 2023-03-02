@@ -1,0 +1,79 @@
+.img99
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+.rectangle9{
+    position: absolute;
+    height: 486px;
+    width: 453px;
+    top:250px;
+    left:1000px;
+    background: white;
+}  
+.img199
+{
+    position: absolute;
+    top: 300px;
+    left: 1170px;
+}
+.head9
+{
+    position: absolute;
+    top: 370px;
+    left: 1070px;
+    width: 300px;
+    font-size: 25px;
+}
+.para9
+{
+    position: absolute;
+    top: 450px;
+    left: 1030px;
+}
+.form99
+{
+    position: absolute;
+    top: 530px;
+    left: 1030px;
+    
+}
+input[type=text1]
+{
+   
+    size: 22;
+    height: 19px;
+   
+    width: 250px;
+}  
+::placeholder
+{
+    font-size: 20px;
+}
+.ccc9
+{
+    background-color: rgb(74, 196, 74);
+    border-color: rgb(58, 219, 58);
+    width: 87px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+   
+}
+.img299
+{
+    position: absolute;
+    top: 650px;
+    left: 1060px;
+}
+.to9
+{
+    position: absolute;
+    top: 635px;
+    left: 1100px;
+}

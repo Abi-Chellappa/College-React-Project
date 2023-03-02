@@ -1,0 +1,73 @@
+.rrr
+{
+   position: absolute;
+   width: 488px;
+   height: 530px;
+   left: 699px;
+   top: 123px;
+   background: rgba(0, 0, 0, 0.24);
+   border-radius: 50px;
+}
+.fff
+{
+    position: absolute;
+    left: 724px;
+    top: 250px;
+    font-size: 30px;
+}
+::placeholder
+{
+    font-size: 20px;
+}
+.but
+{
+    position: absolute;
+    border-radius: 1000px;
+    background: #D9D9D9;
+    width: 177px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #000000;
+    left: 120px;
+}
+input[type=text100]
+{
+   
+    size: 22;
+    height: 25px;
+    font-size: 30px;
+    width: 220px;
+}    
+input[type=password300]
+{
+    size: 22;
+    height: 25px;
+    width: 220px;
+    font-size: 30px;
+    
+}
+     
+.signup
+{
+   position: absolute;
+   left: 835px;
+   top: 100px;
+   font-style: normal;
+   font-size: 40px;
+   color: #FFFFFF;
+}
+
+ 
+
+
+.temp
+{
+    position: absolute;
+    left: 0px;
+}
+
+

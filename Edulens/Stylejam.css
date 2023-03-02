@@ -1,0 +1,175 @@
+.bg{
+    position: relative;
+width: 1669px;
+height: 2044px;
+
+background: #FFFFFF;
+}
+.aaa01
+{
+    position: absolute;
+    top: 1200px;
+    left: 1020px;
+    font-size: 72px;
+    
+}
+.mmm
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.buttt1
+{
+    position: absolute;
+    font-size: 64px;
+    width: 500px;
+    top: 1255px;
+    left: 945px;
+}
+    
+.college01
+{
+    font-size: 72px;
+}
+.thumb
+{
+    border-radius: 2000px;
+    
+}
+.rec11{
+    position: absolute;
+    width: 26px;
+height: 1350px;
+left: 10px;
+top: 0px;
+
+background: #6C200E;
+padding-right: 0px;
+
+
+}
+.rec21{
+    position: absolute;
+width: 1422px;
+height: 160px;
+left: 50px;
+top: 0px;
+
+background: #6C200E;
+
+
+}
+.txt11{
+    position: absolute;
+width: 1245px;
+height: 116px;
+left: 121px;
+top: -50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 116px;
+
+color: #FFFFFF;
+
+}
+.img11{
+    position: absolute;
+left: 50px;
+top: 170px;
+
+
+
+}
+.txt21{
+    position: absolute;
+width: 807px;
+height: 92px;
+left: 80px;
+top: 1100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+}
+.rec31{
+    position: absolute;
+width: 550px;
+height: 200px;
+left: 920px;
+top: 1200px;
+
+background: rgba(77, 11, 11, 0.66);
+transform: rotate(-179.96deg);
+}
+.rec41{
+    position: absolute;
+width: 1475px;
+height: 515px;
+left: 0px;
+top: 1450px;
+
+background: #EFE5DA;
+padding-bottom: 0px;
+
+
+
+
+}
+.txt31{
+    position: absolute;
+width: 604px;
+height: 232px;
+left: 726px;
+top: 1500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+}
+.img41{
+    position: absolute;
+left: 150px;
+top: 1500px;
+
+clip: rect(0px,900px,370px,0px);
+
+}
+
+.rec5{
+    position: absolute;
+    width: 500px;
+height: 100px;
+left: 850px;
+top: 1000px;
+
+background-color: #000000;
+}
+.drop{
+    position: absolute;
+left: 850px;
+right: 25%;
+top: -30%;
+bottom: 83.33%;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 200;
+font-size: 64px;
+line-height: 77px;
+
+
+color: #000000;
+
+}

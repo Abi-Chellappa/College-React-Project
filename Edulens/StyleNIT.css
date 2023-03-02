@@ -1,0 +1,160 @@
+.img1{
+    position: absolute;
+    top:40px;
+    left: 86px;
+}
+.text1{ 
+    position: relative; 
+    left:0px; 
+    font-size: 24px; 
+    top:9px; 
+    color: #FFFFFF;   
+    padding-bottom: 5px;
+    background-color: #6396D1;
+    width: 1502px;
+    padding-top: 5px;
+}   
+.cross0
+{
+    position: absolute;
+    left: 1462px;
+    top: 8px;
+    border-radius: 100px;
+}
+.clgimg
+{
+    position: absolute;
+    left: 0px;
+}
+.Add{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:814px;
+    height: 58px;
+    position: relative; 
+    left:373px; 
+    font-size: 24px; 
+    color: #FFFFFF;
+}
+.rectangle1{
+  
+    position: absolute;
+    width: 375px;
+    height: 236px;
+    left: 0px;
+    top: 795px;
+    background: rgba(177, 178, 173, 0.54);
+}
+.counselling
+{
+    position: absolute;
+    left: 95px;
+    top: 775px;
+    font-size: 32px;
+    font-style: medium;
+   
+
+}
+
+.code
+{
+    position: absolute;
+    left: 70px;
+    top: 850px;
+    font-size: 32px;
+    font-style: medium;
+
+}
+
+.rectangle2{
+    position: absolute;
+    width: 370px;
+    height: 235px;
+    left: 375px;
+    top: 796px;
+    background: rgba(101, 102, 98, 0.54);
+
+}
+.nirf
+{
+    position: absolute;
+    left: 441px;
+     top: 775px;
+     font-size: 32px;
+     font-style: medium;
+
+}
+.img3
+{
+    position: absolute;
+    left: 440px;
+    top: 880px;
+}
+.rank
+{  
+    position: absolute;
+    left: 573px;
+    top: 860px;
+    font-size: 32px;
+
+}
+
+
+.rectangle3{
+    position: absolute;
+    height: 237px;
+    width: 395px;
+    left: 740px;
+    top: 796px;
+    background: rgba(177, 178, 173, 0.54);
+}
+.rating
+{
+   position: absolute;  
+   left: 865px;
+   top: 780px;
+   font-style: Medium;
+   font-size: 36px;
+
+}
+.img4
+{
+    position: absolute;
+    left: 790px;
+    top: 890px;
+   
+}
+
+
+.rectangle4{
+    position: absolute;
+    height: 236px;
+    width: 367px;
+    top:796px;
+    left:1135px;
+    background: rgba(101, 102, 98, 0.54);
+}  
+.course
+{
+    position: absolute;   
+    left: 1262px;
+    top: 760px;
+    font-size: 32px;
+    font-style: Medium;
+}
+
+.degree
+{
+   position: absolute;   
+   left: 1190px;
+   top: 820px;
+   font-size: 20px;
+}
+.degree2
+{
+    position: absolute;   
+   left: 1390px;
+   top: 820px;
+   font-size: 20px;   
+}
